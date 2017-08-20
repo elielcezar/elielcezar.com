@@ -138,12 +138,6 @@ form input[type="submit"]:hover {
   position: absolute;
   margin-right: -150px;
 }
-#wrapper {
-  padding-left: 200px;
-}
-#wrapper.toggled {
-  padding-left: 45px;
-}
 #page-content-wrapper {
   position: relative;
 }

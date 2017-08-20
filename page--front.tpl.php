@@ -3,7 +3,7 @@
 
 
 
-<div id="sidebar-wrapper">
+<!--div id="sidebar-wrapper">
 
      <div id="sidebar">
             <a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><img src="<?php print base_path() . path_to_theme() .'/' ?>/img/elielcezar.png" alt="Eliel Cezar" class="foto-perfil img-responsive" /></a>
@@ -17,7 +17,7 @@
                       <li><a data-toggle="pill" href="#contato"><span class="glyphicon glyphicon-send" aria-hidden="true"></span><span class="desc">Contato</span></a></li>
                   </ul>
                 </nav>
-            </div><!-- menu principal -->
+            </div>
             <div class="info">
               <p>elielcezar@gmail.com</p>
               <p>skype: eliel_cezar</p>
@@ -29,8 +29,8 @@
 
               </section>
 
-      </div><!-- sidebar -->
-</div>
+      </div>
+</div-->
 
 <!-- /#sidebar-wrapper -->
 
@@ -40,7 +40,7 @@
             <div class="container-fluid">
                <div id="principal">
 
-                <a href="#menu-toggle" id="menu-toggle"><i class="fa fa-bars"></i></a>
+                <!--a href="#menu-toggle" id="menu-toggle"><i class="fa fa-bars"></i></a-->
 
                 <header id="topo">
                   <div class="container">
@@ -55,7 +55,7 @@
                   </div>
                 </header>
 
-                <section id="portfolio">
+                <!--section id="portfolio">
 
                     <div class="wrapper-portfolio">
                       <div class="col-xs-4 coluna">
@@ -92,13 +92,13 @@
                       </div>
                     </div>
 
-                </section>
+                </section-->
 
 
-            <?php include "experiencia.tpl.php"; ?>
+            <?php //include "experiencia.tpl.php"; ?>
 
 
-            <?php include "contato.tpl.php"; ?>
+            <?php //include "contato.tpl.php"; ?>
 
 
 
